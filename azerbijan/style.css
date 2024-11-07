@@ -8,8 +8,8 @@ a {
     text-align:center;
 }
 .flag {
-  width:900px;
-  height:600px;
+  width:400px;
+  height:200px;
   margin:auto;
   border:1px solid black;
 }
@@ -20,12 +20,12 @@ a {
 }
 
 .red {
-    background:red;
+    background:#00B5E2;
 }
 
 .white {
-    background:white;
+    background:#EF3340;
 }
 .blue {
-    background:blue;
+    background:#509E2F;
 }
